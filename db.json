@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "João Silva",
+      "cpf": "123.456.789-00",
+      "email": "joao@example.com",
+      "password": "senha123",
+      "cep": "01310-100",
+      "street": "Avenida Paulista",
+      "neighborhood": "Bela Vista",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "id": "2",
+      "name": "Maria Santos",
+      "cpf": "987.654.321-00",
+      "email": "maria@example.com",
+      "password": "senha456",
+      "cep": "20040-020",
+      "street": "Rua do Ouvidor",
+      "neighborhood": "Centro",
+      "city": "Rio de Janeiro",
+      "state": "RJ"
+    },
+    {
+      "id": "1b51",
+      "name": "Marcos Brito",
+      "cpf": "043.971.752-33",
+      "email": "dev.marcosbrito@gmail.com",
+      "password": "123456789",
+      "cep": "68376-807",
+      "street": "Rua Matrinchã",
+      "neighborhood": "Ibiza",
+      "city": "Altamira",
+      "state": "PA"
+    }
+  ]
+}
