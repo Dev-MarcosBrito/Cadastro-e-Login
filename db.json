@@ -23,18 +23,6 @@
       "neighborhood": "Centro",
       "city": "Rio de Janeiro",
       "state": "RJ"
-    },
-    {
-      "id": "feab",
-      "name": "Marcos Brito",
-      "cpf": "043.971.752-33",
-      "email": "dev.marcosbrito@gmail.com",
-      "password": "123456",
-      "cep": "68376-807",
-      "street": "Rua Matrinchã",
-      "neighborhood": "Ibiza",
-      "city": "Altamira",
-      "state": "PA"
     }
   ]
 }
